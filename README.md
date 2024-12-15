@@ -48,7 +48,7 @@ o	Copyright information and accessibility notes.
 
 # Check out the page
 
-Click [https://jpriya28.github.io/Tripadvisor-Clone/] here to visit my Udemy Clone website.
+Click [https://jpriya28.github.io/Tripadvisor-Clone/] here to visit my Tripadvisor-Clone website.
 
 # Contributing
 
